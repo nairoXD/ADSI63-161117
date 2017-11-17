@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Cambio numero 1</h1>
-<h2>cambio numero 2</h2>
+<h2>haciendo pruebas con git hub</h2>
 </body>
 </html>
